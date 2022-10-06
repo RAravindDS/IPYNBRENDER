@@ -1,0 +1,9 @@
+ipwidgets 
+notebook 
+pytest 
+tox
+black # formating 
+flake8 
+mypy 
+ensure  # check the argument passed is right or wrong!
+py-youtube 
