@@ -7,4 +7,5 @@ flake8
 mypy 
 ensure  # check the argument passed is right or wrong!
 py-youtube 
+-e . # intall all the local packages. 
 
